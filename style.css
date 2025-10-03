@@ -73,6 +73,8 @@ body {
     text-decoration: line-through;
     color: #777;
     font-weight: bold;
+    padding: 4px;
+    border: 1px dashed grey;
 }
 
 .todo-item button {
