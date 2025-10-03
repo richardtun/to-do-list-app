@@ -72,6 +72,7 @@ body {
     background: #a6e7a1;
     text-decoration: line-through;
     color: #777;
+    font-weight: 500;
 }
 
 .todo-item button {
